@@ -1,0 +1,9 @@
+Origin: JSAND
+Label: JSAND
+Suite: stable
+Version: 1.1
+Codename: Apollo
+Architectures: iphoneos-arm
+Components: main
+Description: JSAND
+MD5Sum:
