@@ -3,7 +3,7 @@ Verison: 1.1
 Architecture: iphoneos-arm
 Maintainer: JSAND <nbs@rocketdev.co>
 Depends: Anemone
-Filename: debs//com.jsand.ApolloOne
+Filename: debs//com.jsand.ApolloOne.deb
 Size: 123
 MD5Sum: 0b05292bd328cd1231ba43f101642d8f
 SHA1: e5e345d4ced933c5cf75f3fc98946ea3186524c7
