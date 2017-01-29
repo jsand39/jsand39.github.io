@@ -3,7 +3,7 @@ Version: 1.1
 Size: 121028
 Architecture: iphoneos-arm
 Maintainer: JSAND <nbs@rocketdev.co>
-Depends: com.anemonetheming.anemone
+Depends: winterboard
 Filename: debs//com.jsand.ApolloOne.deb
 MD5Sum: 36ac810d52f92ac1104308688c75b3dd
 SHA1: 967e5d663256fb0f8d448c98b39e81a89e938eb0
