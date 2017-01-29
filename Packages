@@ -1,13 +1,13 @@
 Package: com.jsand.ApolloOne
-Version: 1.2.3
+Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: JSAND <nbs@rocketdev.co>
 Depends: com.anemonetheming.anemone, mobilesubstrate
-Filename: ./debs/com.jsand.apolloone_1.2.3_iphoneos-arm.deb
-Size: 545354
-MD5sum: ab53ae181bb9029bcc8f3bfc83ca8b1a
-SHA1: 6a1c76665d7497780b2e734e6dfdd1bca14a8442
-SHA256: a1e47d429f14f9b170dc9eb7afe3ba0e572e766c99bb4c91b59aaa371abce588
+Filename: ./debs/com.jsand.apolloone_1.2.5_iphoneos-arm.deb
+Size: 545402
+MD5sum: a8875cdb4fbe2aa4f2ca2ebfe87daab4
+SHA1: 655a353fbc282ecb8c626cb34095f3d96439b258
+SHA256: 426fc677b92b6fbc833150d67f9db39ef6946a2860f82db50daa4fe2884a1622
 Section: Apollo
 Description: Apollo One
 Author: JSAND <nbs@rocketdev.co>
