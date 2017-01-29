@@ -2,7 +2,7 @@ Package: com.jsand.ApolloOne
 Name: Apollo
 Version: 1.1.1
 Section: Apollo
-Depends: com.anemonetheming.anemone
+Depends: com.anemonetheming.anemone, mobilesubstrate
 Architecture: iphoneos-arm
 Description: Apollo One
 Author: JSAND <nbs@rocketdev.co>
