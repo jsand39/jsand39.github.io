@@ -1,6 +1,6 @@
 Package: com.jsand.ApolloOne
 Name: Apollo
-Version: 1.1
+Version: 1.1.1
 Section: Apollo
 Depends: com.anemonetheming.anemone
 Architecture: iphoneos-arm
