@@ -5,9 +5,9 @@ Architecture: iphoneos-arm
 Maintainer: JSAND <nbs@rocketdev.co>
 Depends: com.anemonetheming.anemone
 Filename: debs//com.jsand.ApolloOne.deb
-MD5Sum: 292863ce5fb653c1d2ff9201af0260f4
-SHA1: 87f8d967008c04eafd960ab39f05cc04a848887d
-SHA256: 7aededa9bcdcd90ca03e6058cffa6d71d842779ee1b1d70c379f36790005bc23
+MD5Sum: 8991107ad60beaa50c63696f87165b84
+SHA1: 44beceaa4f5df76a736b982671dc6e6672edbd65
+SHA256: 4d49ce5dc8c1b3ff27da7f71a25e193652cc9a029d7cb79bc80b13e992768065
 Section: Apollo
 Description: Apollo One
 Author: JSAND <nbs@rocketdev.co>
