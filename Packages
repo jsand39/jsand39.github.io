@@ -1,6 +1,6 @@
 Package: com.jsand.ApolloOne
 Version: 1.1
-Size: 122588
+Size: 122572
 Architecture: iphoneos-arm
 Maintainer: JSAND <nbs@rocketdev.co>
 Depends: com.anemonetheming.anemone
