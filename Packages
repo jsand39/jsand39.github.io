@@ -1,5 +1,5 @@
 Package: com.jsand.ApolloOne
-Verison: 1.1
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: JSAND <nbs@rocketdev.co>
 Depends: anemone
